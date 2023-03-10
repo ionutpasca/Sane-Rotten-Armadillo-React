@@ -1,0 +1,25 @@
+.component4-container {
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+.component4-container1 {
+  flex: 0 0 auto;
+  width: 1079px;
+  height: 642px;
+  margin: var(--dl-space-space-oneandhalfunits);
+  display: flex;
+  align-items: center;
+  padding-top: var(--dl-space-space-threeunits);
+  padding-left: var(--dl-space-space-unit);
+  padding-right: var(--dl-space-space-unit);
+  padding-bottom: var(--dl-space-space-threeunits);
+  justify-content: center;
+}
+@media(max-width: 991px) {
+  .component4-container1 {
+    background-color: var(--dl-color-success-300);
+  }
+}

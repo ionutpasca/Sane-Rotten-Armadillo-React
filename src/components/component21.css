@@ -1,0 +1,26 @@
+.component21-container {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.component21-container1 {
+  flex: 0 0 auto;
+  width: 946px;
+  height: 387px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.component21-container2 {
+  flex: 0 0 auto;
+  width: 711px;
+  height: 323px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+
